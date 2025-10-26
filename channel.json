@@ -1,36 +1,38 @@
 [
 	//colorswitcher
-	"https://raw.githubusercontent.com/akikareha/micro-colorswitcher-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/colorswitcher-plugin/main/repo.json",
 	//fmtonsave
-	"https://raw.githubusercontent.com/akikareha/micro-fmtonsave-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/fmtonsave-plugin/main/repo.json",
 	//autotheme
-	"https://raw.githubusercontent.com/akikareha/micro-autotheme-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/autotheme-plugin/main/repo.json",
 	//colorshuffle
-	"https://raw.githubusercontent.com/akikareha/micro-colorshuffle-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/colorshuffle-plugin/main/repo.json",
 	//karehacolors
-	"https://raw.githubusercontent.com/akikareha/micro-kareha-colorschemes/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/kareha-colorschemes/main/repo.json",
 	//diffpatchsyntax
-	"https://raw.githubusercontent.com/akikareha/micro-diffpatch-syntax/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/diffpatch-syntax/main/repo.json",
 	//gtypistsyntax
-	"https://raw.githubusercontent.com/akikareha/micro-gtypist-syntax/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/gtypist-syntax/main/repo.json",
 	//mdfy
-	"https://raw.githubusercontent.com/akikareha/micro-mdfy-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/mdfy-plugin/main/repo.json",
 	//toggle
-	"https://raw.githubusercontent.com/akikareha/micro-toggle-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/toggle-plugin/main/repo.json",
 	//shout
-	"https://raw.githubusercontent.com/akikareha/micro-shout-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/shout-plugin/main/repo.json",
 	//openconfig
-	"https://raw.githubusercontent.com/akikareha/micro-openconfig-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/openconfig-plugin/main/repo.json",
 	//pushd
-	"https://raw.githubusercontent.com/akikareha/micro-pushd-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/pushd-plugin/main/repo.json",
 	//mdtblfmt
-	"https://raw.githubusercontent.com/akikareha/micro-mdtblfmt-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/mdtblfmt-plugin/main/repo.json",
 	//colorgen
-	"https://raw.githubusercontent.com/akikareha/micro-colorgen-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/colorgen-plugin/main/repo.json",
 	//pubcolors
-	"https://raw.githubusercontent.com/akikareha/micro-pub-colorschemes/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/pub-colorschemes/main/repo.json",
 	//skk
-	"https://raw.githubusercontent.com/akikareha/micro-skk-plugin/main/repo.json",
+	"https://raw.githubusercontent.com/micro-garden/skk-plugin/main/repo.json",
 	//vi
-	"https://raw.githubusercontent.com/akikareha/micro-vi-plugin/main/repo.json"
+	"https://raw.githubusercontent.com/micro-garden/vi-plugin/main/repo.json",
+	//mtp
+	"https://raw.githubusercontent.com/micro-garden/textpad-colorschemes/main/repo.json"
 ]
